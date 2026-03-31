@@ -97,16 +97,7 @@ Tenho interesse em ambientes onde eu possa evoluir tecnicamente, aprender com o 
 
 ---
 
-## 📈 Estatísticas GitHub
 
-<div align="center">
-  <a href="https://github.com/Upsetjojos2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Upsetjojos2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upsetjojos2&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-
----
 
 ## 🔥 Consistência de Contribuições
 
@@ -116,13 +107,7 @@ Tenho interesse em ambientes onde eu possa evoluir tecnicamente, aprender com o 
 
 ---
 
-## 🏆 Destaques do Perfil
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Upsetjojos2&theme=tokyonight&row=1&column=6" />
-</div>
-
----
 
 ## 🐍 Atividade no GitHub
 
