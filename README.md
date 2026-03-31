@@ -5,7 +5,7 @@
 ### 📊 Engenheiro de Dados em Desenvolvimento
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Upsetjojos2-181717?style=for-the-badge&logo=github)](https://github.com/Upsetjojos2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Pereira-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gabriel-pereira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Pereira-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gabriel-pereira-2217432bb)
 
 ---
 
@@ -110,7 +110,7 @@ Estou aberto para oportunidades, parcerias e conversas sobre dados e tecnologia!
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Upsetjojos2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-pereira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-pereira-2217432bb)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu.gabrieldpvava@gmail.com)
 
 </div>
