@@ -1,11 +1,11 @@
 <h1 align="center">Gabriel Pereira</h1>
 
 <p align="center">
-  <strong>Computer Engineer • Data • Computer Vision • AI • Automation</strong>
+  <strong>Computer Engineer • Data • Computer Vision • AI</strong>
 </p>
 
 <p align="center">
-  Passionate about building intelligent solutions using data, computer vision, and automation.
+  Building practical solutions with data, artificial intelligence, and real-world projects.
 </p>
 
 <p align="center">
@@ -24,19 +24,15 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Engineering graduate** focused on building real-world solutions using **data, artificial intelligence, and computer vision**.
+I am a **Computer Engineer** focused on developing practical solutions using **data, computer vision, and artificial intelligence**.
 
-I have hands-on experience developing projects involving:
+I have experience building projects involving:
 
-* Computer Vision (object detection, image processing)
-* Data analysis and visualization
+* Object detection and image processing
+* Data analysis and interactive dashboards
 * Automation and problem-solving with Python
 
-My goal is to work on projects where I can contribute with:
-
-* Data pipelines and analysis
-* Intelligent systems using AI
-* Scalable and efficient solutions
+I focus on writing clean, efficient code and creating solutions that generate real insights and value.
 
 ---
 
@@ -46,53 +42,67 @@ My goal is to work on projects where I can contribute with:
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,mysql,postgresql,git,github,vscode,linux" />
 </p>
 
-### 🔧 Technologies & Tools
+### 🔧 Tools & Technologies
 
 * **Python (Data, Automation, AI)**
 * **C / C++ / Java / JavaScript**
 * **SQL (MySQL, PostgreSQL)**
-* **Power BI (Dashboards & BI)**
+* **Power BI (Business Intelligence)**
 * **OpenCV / YOLO (Computer Vision)**
 * **TensorFlow / PyTorch (Deep Learning)**
 * **Git & GitHub**
 
 ---
 
-## 🚀 Professional Interests
+## 🚀 What I Work With
 
-* Data Engineering
-* Data Analysis
-* Computer Vision
-* Artificial Intelligence
-* Backend Development
+* Data Analysis & Visualization
+* Computer Vision Applications
+* Automation with Python
+* Data Processing & ETL (basic pipelines)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
-> Update with your real project links
+### 🔹 Computer Vision
 
-### 🔹 Computer Vision Projects
+* Real-time object detection using YOLO
+* Image processing with OpenCV
+* Practical AI-based applications
 
-* Object detection using YOLO and OpenCV
-* Image processing and analysis
-* Real-time detection systems
-
-### 🔹 Data & BI Projects
+### 🔹 Data & BI
 
 * Interactive dashboards with Power BI
-* Sales and business analysis
-* Data storytelling and insights
+* Sales and business data analysis
+* Data storytelling with KPIs
 
-### 🔹 Data Engineering (Learning Path)
+### 🔹 Data Projects
 
-* ETL pipelines
-* Data processing with Python
-* API integrations
+* Data manipulation and analysis with Python
+* SQL queries and data organization
+* Simple ETL pipelines
 
 ---
 
-## 🔥 GitHub Activity
+## 📚 Continuous Improvement
+
+* Data structures and algorithms
+* Scalable data systems
+* API integrations
+* Advanced data processing
+
+---
+
+## 🤝 Connect with Me
+
+* 📧 Email: [gabrieldpvava@gmail.com](mailto:gabrieldpvava@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/gabriel-pereira-2217432bb/
+* 💻 GitHub: https://github.com/Upsetjojos2
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Upsetjojos2&theme=tokyonight" />
@@ -110,26 +120,6 @@ My goal is to work on projects where I can contribute with:
 
 ---
 
-## 📚 Currently Learning
-
-* Data Structures & Algorithms
-* Advanced Python for Data
-* SQL optimization
-* APIs & integrations
-* ETL pipelines
-* Scalable data systems
-
----
-
-## 🤝 Let's Connect
-
-* 📧 Email: [gabrieldpvava@gmail.com](mailto:gabrieldpvava@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/gabriel-pereira-2217432bb/
-* 💻 GitHub: https://github.com/Upsetjojos2
-
----
-
 <p align="center">
-  <strong>Building real skills through projects, consistency, and continuous learning.</strong>
+  <strong>Focused on building real projects, gaining experience, and delivering value through technology.</strong>
 </p>
-
