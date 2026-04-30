@@ -1,148 +1,107 @@
 <h1 align="center">Gabriel Pereira</h1>
 
 <p align="center">
-  <strong>Python • SQL • Dados • Automação • Engenharia de Dados</strong>
+  <strong>Computer Engineer • Data • Computer Vision • AI</strong>
 </p>
 
 <p align="center">
-  Em evolução constante na área de tecnologia, com foco em construir soluções com dados, automações e desenvolvimento prático.
+  Building practical solutions with data, artificial intelligence, and real-world projects.
 </p>
 
 <p align="center">
   <a href="mailto:gabrieldpvava@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/gabriel-pereira-2217432bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Upsetjojos2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou um profissional em desenvolvimento na área de tecnologia, com interesse especial em **Engenharia de Dados**, **automação de processos**, **Python** e **SQL**.
+I am a **Computer Engineer** focused on developing practical solutions using **data, computer vision, and artificial intelligence**.
 
-Tenho buscado construir projetos práticos que demonstrem organização, lógica, resolução de problemas e aplicação real de tecnologia no dia a dia. Meu objetivo é atuar em projetos onde eu possa contribuir com **tratamento de dados**, **integrações**, **pipelines**, **automação** e **soluções escaláveis**.
+I have experience building projects involving:
 
-Atualmente, sigo aprofundando conhecimentos em:
+* Object detection and image processing
+* Data analysis and interactive dashboards
+* Automation and problem-solving with Python
 
-- **Python para automação e manipulação de dados**
-- **SQL para consultas, organização e análise**
-- **ETL / pipelines de dados**
-- **APIs e integrações**
-- **Versionamento com Git e GitHub**
-- **Boas práticas de desenvolvimento**
+I focus on writing clean, efficient code and creating solutions that generate real insights and value.
 
 ---
 
-## 🛠️ Stack e Ferramentas
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,mysql,postgresql,git,github,vscode,linux" />
 </p>
 
-### Tecnologias com foco atual:
-- **Python**
-- **SQL**
-- **Git & GitHub**
-- **Banco de Dados Relacional**
-- **Automação**
-- **Manipulação de Dados**
-- **Lógica de Programação**
+### 🔧 Tools & Technologies
+
+* **Python (Data, Automation, AI)**
+* **C / C++ / Java / JavaScript**
+* **SQL (MySQL, PostgreSQL)**
+* **Power BI (Business Intelligence)**
+* **OpenCV / YOLO (Computer Vision)**
+* **TensorFlow / PyTorch (Deep Learning)**
+* **Git & GitHub**
 
 ---
 
-## 🚀 Objetivo Profissional
+## 🚀 What I Work With
 
-Busco oportunidades para atuar com:
-
-- **Engenharia de Dados**
-- **Análise de Dados**
-- **Automação de Processos**
-- **Desenvolvimento Back-End Júnior**
-- **Projetos com Python e SQL**
-
-Tenho interesse em ambientes onde eu possa evoluir tecnicamente, aprender com o time e contribuir com soluções bem estruturadas.
+* Data Analysis & Visualization
+* Computer Vision Applications
+* Automation with Python
+* Data Processing & ETL (basic pipelines)
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Work
 
-> Atualize os links abaixo com seus projetos reais.
+### 🔹 Computer Vision
 
-### 🔹 Projetos recomendados para este perfil
-- 🐍 **Automação com Python**  
-  Projeto focado em produtividade, automação de tarefas e lógica aplicada.  
-  **Stack:** Python  
-  [🔗 Ver projeto](https://github.com/Upsetjojos2)
+* Real-time object detection using YOLO
+* Image processing with OpenCV
+* Practical AI-based applications
 
-- 🗄️ **Consultas SQL e desafios de banco de dados**  
-  Repositório com exercícios, consultas e organização de dados.  
-  **Stack:** SQL / Banco de Dados  
-  [🔗 Ver projeto](https://github.com/Upsetjojos2)
+### 🔹 Data & BI
 
-- 📊 **Análise de Dados com Python**  
-  Exploração, limpeza e transformação de dados com foco analítico.  
-  **Stack:** Python / Pandas  
-  [🔗 Ver projeto](https://github.com/Upsetjojos2)
+* Interactive dashboards with Power BI
+* Sales and business data analysis
+* Data storytelling with KPIs
 
-- ⚙️ **Mini Pipeline de Dados (ETL)**  
-  Coleta, transformação e carregamento de dados em estrutura simples.  
-  **Stack:** Python / SQL  
-  [🔗 Ver projeto](https://github.com/Upsetjojos2)
+### 🔹 Data Projects
+
+* Data manipulation and analysis with Python
+* SQL queries and data organization
+* Simple ETL pipelines
 
 ---
 
+## 📚 Continuous Improvement
 
-
-## 🔥 Consistência de Contribuições
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Upsetjojos2&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-
-
-## 🐍 Atividade no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Upsetjojos2/Upsetjojos2/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Upsetjojos2/Upsetjojos2/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Upsetjojos2/Upsetjojos2/output/github-contribution-grid-snake.svg">
-</picture>
+* Data structures and algorithms
+* Scalable data systems
+* API integrations
+* Advanced data processing
 
 ---
 
-## 📚 Em evolução contínua
+## 🤝 Connect with Me
 
-Atualmente estudando e praticando temas como:
-
-- Estrutura de dados e lógica
-- Manipulação de dados com Python
-- Consultas SQL
-- Organização de projetos
-- APIs REST
-- ETL e fluxo de dados
-- Construção de portfólio técnico
-
----
-
-## 🤝 Vamos nos conectar
-
-Se você quiser trocar ideia sobre tecnologia, projetos, dados ou oportunidades:
-
-- 📧 **Email:** gabrieldpvava@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/gabriel-pereira-2217432bb/
-- 💻 **GitHub:** https://github.com/Upsetjojos2
+* 📧 Email: [gabrieldpvava@gmail.com](mailto:gabrieldpvava@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/gabriel-pereira-2217432bb/
+* 💻 GitHub: https://github.com/Upsetjojos2
 
 ---
 
 <p align="center">
-  <strong>Construindo consistência, projetos e evolução real na tecnologia.</strong>
+  <strong>Focused on building real projects, gaining experience, and delivering value through technology.</strong>
 </p>
