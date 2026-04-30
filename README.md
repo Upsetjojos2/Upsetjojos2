@@ -1,11 +1,11 @@
 <h1 align="center">Gabriel Pereira</h1>
 
 <p align="center">
-  <strong>Computer Engineer • Data • Computer Vision • AI</strong>
+  <strong>Computer Engineer • Data • Computer Vision • AI • Automation</strong>
 </p>
 
 <p align="center">
-  Building practical solutions with data, artificial intelligence, and real-world projects.
+  Passionate about building intelligent solutions using data, computer vision, and automation.
 </p>
 
 <p align="center">
@@ -24,15 +24,19 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Engineer** focused on developing practical solutions using **data, computer vision, and artificial intelligence**.
+I am a **Computer Engineering graduate** focused on building real-world solutions using **data, artificial intelligence, and computer vision**.
 
-I have experience building projects involving:
+I have hands-on experience developing projects involving:
 
-* Object detection and image processing
-* Data analysis and interactive dashboards
+* Computer Vision (object detection, image processing)
+* Data analysis and visualization
 * Automation and problem-solving with Python
 
-I focus on writing clean, efficient code and creating solutions that generate real insights and value.
+My goal is to work on projects where I can contribute with:
+
+* Data pipelines and analysis
+* Intelligent systems using AI
+* Scalable and efficient solutions
 
 ---
 
@@ -42,59 +46,82 @@ I focus on writing clean, efficient code and creating solutions that generate re
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,mysql,postgresql,git,github,vscode,linux" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Technologies & Tools
 
 * **Python (Data, Automation, AI)**
 * **C / C++ / Java / JavaScript**
 * **SQL (MySQL, PostgreSQL)**
-* **Power BI (Business Intelligence)**
+* **Power BI (Dashboards & BI)**
 * **OpenCV / YOLO (Computer Vision)**
 * **TensorFlow / PyTorch (Deep Learning)**
 * **Git & GitHub**
 
 ---
 
-## 🚀 What I Work With
+## 🚀 Professional Interests
 
-* Data Analysis & Visualization
-* Computer Vision Applications
-* Automation with Python
-* Data Processing & ETL (basic pipelines)
+* Data Engineering
+* Data Analysis
+* Computer Vision
+* Artificial Intelligence
+* Backend Development
 
 ---
 
-## 📌 Featured Work
+## 📌 Featured Projects
 
-### 🔹 Computer Vision
+> Update with your real project links
 
-* Real-time object detection using YOLO
-* Image processing with OpenCV
-* Practical AI-based applications
+### 🔹 Computer Vision Projects
 
-### 🔹 Data & BI
+* Object detection using YOLO and OpenCV
+* Image processing and analysis
+* Real-time detection systems
+
+### 🔹 Data & BI Projects
 
 * Interactive dashboards with Power BI
-* Sales and business data analysis
-* Data storytelling with KPIs
+* Sales and business analysis
+* Data storytelling and insights
 
-### 🔹 Data Projects
+### 🔹 Data Engineering (Learning Path)
 
-* Data manipulation and analysis with Python
-* SQL queries and data organization
-* Simple ETL pipelines
-
----
-
-## 📚 Continuous Improvement
-
-* Data structures and algorithms
-* Scalable data systems
+* ETL pipelines
+* Data processing with Python
 * API integrations
-* Advanced data processing
 
 ---
 
-## 🤝 Connect with Me
+## 🔥 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Upsetjojos2&theme=tokyonight" />
+</div>
+
+---
+
+## 🐍 Contribution Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Upsetjojos2/Upsetjojos2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Upsetjojos2/Upsetjojos2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Upsetjojos2/Upsetjojos2/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Advanced Python for Data
+* SQL optimization
+* APIs & integrations
+* ETL pipelines
+* Scalable data systems
+
+---
+
+## 🤝 Let's Connect
 
 * 📧 Email: [gabrieldpvava@gmail.com](mailto:gabrieldpvava@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/gabriel-pereira-2217432bb/
@@ -103,5 +130,6 @@ I focus on writing clean, efficient code and creating solutions that generate re
 ---
 
 <p align="center">
-  <strong>Focused on building real projects, gaining experience, and delivering value through technology.</strong>
+  <strong>Building real skills through projects, consistency, and continuous learning.</strong>
 </p>
+
